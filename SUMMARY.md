@@ -1,16 +1,8 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
+* [👋 Chhirolya Technologies Handbook](README.md)
 
-## The Company
+## The Company  <a href="#company" id="company"></a>
 
-* [About Us](the-company/about-us.md)
-
-***
-
-* [Core Team](core-team.md)
-* [Glossary](glossary.md)
-
-## Our Policies
-
-* [Terms and Conditions](our-policies/terms-and-conditions.md)
+* [🤖 About Us](company/about-us.md)
+* [📈 Mission, Vision and Values](company/mission-vision-and-values.md)
