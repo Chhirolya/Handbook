@@ -6,6 +6,8 @@ description: >-
 
 # 👋 Chhirolya Technologies Handbook
 
+— Img —&#x20;
+
 ## Welcome aboard!
 
 Welcome to the company handbook! Here you'll find everything you need to know about the company. Within our internal docs, there are a number of sections. Some are more important than others to read, so here's a guide on what you can find here.
